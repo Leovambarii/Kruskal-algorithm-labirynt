@@ -6,7 +6,7 @@
 #include <thread>
 #include <chrono>
 
-#define delay_time_ 500  // Odstęp czasowy pomiędzy kolejnymi połączeniami w milisekundach (Funkcjonalna jedynie gdy delay_ = true)
+#define delay_time_ 500  // Odstęp czasowy pomiędzy kolejnymi połączeniami w milisekundach (Funkcjonalna jedynie gdy delay_ = true )
 
 template <typename T>
 class Iterator {
